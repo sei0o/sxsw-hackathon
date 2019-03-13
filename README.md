@@ -1,3 +1,3 @@
-# hackathon
+# Wabisabi
 
-i'll do my best 
+- `eluvio-bitcode/` (WIP) bitcode to be run on eluvio content space
